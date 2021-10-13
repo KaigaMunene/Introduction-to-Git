@@ -5,4 +5,4 @@
 + Git branching use 'git checkout -b "branch name"' ,to go back to the main branch is gcm or git checkout main. (git branch for only creating the branch)
 + Learning to solve merge conflict.
 + Merge conflict solving trial.
-+ Conflicts due to merge not fixed.
++ Learning merging where the conflicts aren't solved.
