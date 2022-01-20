@@ -41,3 +41,12 @@
 + Work in your own way.
 + Don't mix things up.
 + work with the flow.
+
+  
+  ## LINKS
+  + https://desktop.github.com/
+  + https://github.com/topics
+  
+  # opensource links
+  + https://hot.opensauced.pizza/
+  + https://www.firsttimersonly.com/
