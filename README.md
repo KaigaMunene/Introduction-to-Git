@@ -13,7 +13,7 @@
 + git branch <new branch> creates a new branch based on your current HEAD.
 + git push <remote> <branch> -publish local changes on a remote
 + git pull - download changes from the repository
-+    
++ rm -rf .git - to undo a git init if you did it in a wrong folder.   
 + git rebase - rebasing is the process of moving or combining a sequence of commits to a new base commit.
 
 ## Other minnor commands
